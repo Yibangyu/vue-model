@@ -1,2 +1,7 @@
 # vue-model
-基于vue-cli基础搭建的前端框架
+```
+npm install 
+
+npm run dev
+```
+默认监听8080端口
